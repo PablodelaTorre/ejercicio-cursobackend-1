@@ -24,7 +24,6 @@ class Usuario{
         let arr = this.libros.map(x=>{return x.nombre})
         console.log(arr)
         return arr
-        
     }
 }
 
